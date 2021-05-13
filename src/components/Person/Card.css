@@ -1,0 +1,18 @@
+/* Card.css */
+
+.card {
+  box-sizing: border-box;
+  border-radius: 50px;
+  background: #777a92;
+  box-shadow:  22px 22px 4px #65687c,
+             -22px -22px 4px #898ca8;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 25px;
+}
+
+.photo {
+  height: auto;
+  width: 50%;
+}
