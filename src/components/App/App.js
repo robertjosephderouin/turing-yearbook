@@ -28,10 +28,10 @@ class App extends Component {
 
     return(
       <main className='App'>
-        <h1>Turing Yearbook</h1>
-        <h3>Staff</h3>
+        <h1 class="headers">Turing Yearbook</h1>
+        <h3 class="headers">Staff</h3>
         <Person persons={this.state.staff} />
-        <h3>Students</h3>
+        <h3 class="headers">Students</h3>
         <Cohort students={this.state.students} />
       </main>
     )

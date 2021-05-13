@@ -1,5 +1,9 @@
-body{
-  color: #e4e5f1;
-  background-color: #25273c;
-  margin: 2.5vw;
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+.headers {
+  
 }

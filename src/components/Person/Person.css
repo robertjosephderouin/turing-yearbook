@@ -1,6 +1,6 @@
-
 .persons-container {
+  padding: 20px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  margin: 50px;
+  grid-gap: 20px;
 }
